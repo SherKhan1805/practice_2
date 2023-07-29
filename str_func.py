@@ -1,2 +1,3 @@
-def add():
-    pass
+def add(word):
+    return word.title()
+
