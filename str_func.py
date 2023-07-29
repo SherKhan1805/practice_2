@@ -1,6 +1,6 @@
 def add(word):
     """
-    YA HOCHU KUSHAT'
+    YA HOCHU KUSHAT' I PIT'
     """
     return word.title()
 
